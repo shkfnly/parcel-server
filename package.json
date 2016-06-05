@@ -23,7 +23,7 @@
     "geojson-vt": "^2.1.8",
     "gzippo": "^0.2.0",
     "less-middleware": "1.0.x",
-    "mapnik": "^3.4.16",
+    "mapnik": "^3.5.13",
     "method-override": "^2.3.3",
     "moment": "^2.10.3",
     "mongoose": "4.0.6",
