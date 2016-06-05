@@ -26,7 +26,6 @@
     "mapnik": "^3.5.13",
     "method-override": "^2.3.3",
     "moment": "^2.10.3",
-    "mongoose": "4.0.6",
     "morgan": "^1.5.3",
     "node-pre-gyp": "^0.6.28",
     "nodemon": "^1.5.0",
